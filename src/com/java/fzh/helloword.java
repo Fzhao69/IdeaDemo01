@@ -19,6 +19,7 @@ public class helloword {
     public void demo(){
         int num = 10;
         System.out.println("");
+        System.out.println("");
     }
 
 
